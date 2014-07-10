@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+html, body { 
+	background:#fff;
+}
+
+body { padding:0 10px; margin:0; }
